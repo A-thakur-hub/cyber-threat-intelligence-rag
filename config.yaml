@@ -1,0 +1,6 @@
+data_paths:
+  mitre: "./data/mitre/"
+  cve: "./data/cve/"
+  threat_feeds: "./data/threat_feeds/"
+faiss_index_path: "./faiss_index/index.faiss"
+embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
