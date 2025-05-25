@@ -1,7 +1,6 @@
 venv/
+venv310/
 __pycache__/
 *.pyc
 *.ipynb_checkpoints
-data/
-faiss_index/
 .env
